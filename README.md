@@ -35,7 +35,7 @@ This repository houses a comprehensive Pharmacy Management System, built with th
 
 ## ⬇️ Installation ⬇️
 
-1. Clone this repository: `git clone <repository_url>` 
+1. Clone this repository: `git clone https://github.com/SreejaSeethini/PharmacyManagementSystem.git` 
 2. Set up a MySQL database and configure database credentials in the `config.php` file. 🔐
 3. Import the database schema from the `schema.sql` file. 📥
 4. Configure your web server to point to the `public` directory. 🌐
